@@ -1,0 +1,266 @@
+{
+    "status": "ok",
+    "totalResults": 34,
+    "articles": [
+        {
+            "source": {
+                "id": "globo",
+                "name": "Globo"
+            },
+            "author": "O Globo",
+            "title": "Trump ordena que seu nome apareça impresso nos cheques de ajuda aos cidadãos por coronavírus - O Globo",
+            "description": "Por causa desta decisão, sem precedentes nos EUA, a entrega do benefício sofrerá atraso",
+            "url": "https://oglobo.globo.com/mundo/trump-ordena-que-seu-nome-apareca-impresso-nos-cheques-de-ajuda-aos-cidadaos-por-coronavirus-24372592",
+            "urlToImage": "https://ogimg.infoglobo.com.br/in/24370352-9df-0bc/FT1086A/652/7.jpg",
+            "publishedAt": "2020-04-15T16:25:09Z",
+            "content": "WASHINGTON O nome de Donald Trump vai ser impresso nos cheques que o governo americano vai entregar aos cidadãos como apoio para atenuar os efeitos econômicos da pandemia do novo coronavírus. Esta é uma decisão inédita, já que nunca na História do país o nome… [+2216 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Uol.com.br"
+            },
+            "author": "UOL",
+            "title": "Bolsa opera em queda de quase 2%; dólar sobe, vendido perto de R$ 5,26 - UOL",
+            "description": "A Bolsa operava em queda de quase 2% hoje, e o dólar subia. Por volta das 12h45, o dólar comercial registrava alta de 1,25%, vendido a R$ 5,255, e o Ibovespa, principal índice da Bolsa brasileira, perdia 1,93%, a 78.377,89 pontos.O valor do dólar divulgad",
+            "url": "https://economia.uol.com.br/cotacoes/noticias/redacao/2020/04/15/dolar-bolsa-operacao.htm",
+            "urlToImage": "https://conteudo.imguol.com.br/c/noticias/f4/2020/02/14/dolar-1581677836476_v2_615x300.jpg",
+            "publishedAt": "2020-04-15T15:50:15Z",
+            "content": "A Bolsa operava em queda de quase 2% hoje, e o dólar subia. Por volta das 12h45, o dólar comercial registrava alta de 1,25%, vendido a R$ 5,255, e o Ibovespa, principal índice da Bolsa brasileira, perdia 1,93%, a 78.377,89 pontos.\r\nO valor do dólar divulgado … [+2657 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Noticiasconcursos.com.br"
+            },
+            "author": "Saulo Moreira",
+            "title": "Auxílio emergencial poderá ser de R$600, R$1.200 ou R$1.800; veja qual você pode - Notícias Concursos",
+            "description": "O auxílio emergencial foi liberado por conta da pandemia do novo coronavírus. Inicialmente, o valor sancionado pelo Governo Federal foi de R$600,00. No entanto, a quantia pode alcançar o valor de até R$1.800 em cada parcela para famílias de baixa ren",
+            "url": "https://noticiasconcursos.com.br/noticias-concursos/auxilio-emergencial-podera-ser-de-r600-r1-200-ou-r1-800-veja-qual-voce-pode/",
+            "urlToImage": "https://noticiasconcursos.com.br/wp-content/uploads/2020/04/auxilio-de-ate-1800.jpg",
+            "publishedAt": "2020-04-15T15:32:00Z",
+            "content": "O auxílio emergencial foi liberado por conta da pandemia do novo coronavírus. Inicialmente, o valor sancionado pelo Governo Federal foi de R$600,00. No entanto, a quantia pode alcançar o valor de até R$1.800 em cada parcela para famílias de baixa renda. Somen… [+7179 chars]"
+        },
+        {
+            "source": {
+                "id": "globo",
+                "name": "Globo"
+            },
+            "author": null,
+            "title": "Delegado Milton Castelo Filho morre aos 61 anos, após internação em hospital de Fortaleza - G1",
+            "description": "A Polícia Civil lamentou em nota o falecimento de Milton Castelo e se solidarizou com a família.",
+            "url": "https://g1.globo.com/ce/ceara/noticia/2020/04/15/delegado-milton-castelo-filho-morre-aos-61-anos-apos-complicacoes-respiratorias-em-fortaleza.ghtml",
+            "urlToImage": "https://s2.glbimg.com/2UyPa0qoRO2RokORRNkcKmLhc_Y=/1200x/smart/filters:cover():strip_icc()/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2020/C/a/ThlDZlRcWFzqBVqrzZ5Q/milton.jpeg",
+            "publishedAt": "2020-04-15T15:28:00Z",
+            "content": "O delegado da Polícia Civil Milton Castelo Filho, de 61 anos, morreu na manhã desta quarta-feira (15), em Fortaleza. Ele estava internado em um hospital de Fortaleza após sentir sintomas da Covid-19. Segundo a Associação dos Delegados de Polícia Civil do Esta… [+1305 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Tecmundo.com.br"
+            },
+            "author": "Joy Macedo",
+            "title": "Apple anuncia novo iPhone SE 2020 a partir de R$ 3.699 - Tecmundo",
+            "description": "iPhone SE 2020 tem aparência do iPhone 8, mas traz especificações mais atuais",
+            "url": "https://www.tecmundo.com.br/dispositivos-moveis/152105-apple-anuncia-novo-iphone-2020-partir-r-3-699.htm",
+            "urlToImage": "https://img.ibxk.com.br/2020/04/15/15122808259044.jpg",
+            "publishedAt": "2020-04-15T15:28:00Z",
+            "content": "Depois de muitos rumores, finalmente a Apple anunciou oficialmente o novo iPhone SE 2020. No Brasil, o smartphone de baixo custo da Maçã será vendido por preços a partir R$ 3.699 na sua versão mais básica, com 64 GB de armazenamento interno, podendo chegar at… [+1240 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Bbc.com"
+            },
+            "author": "https://www.facebook.com/bbcnews",
+            "title": "Coronavírus: cientistas brasileiros preparam teste de medicamento que reduz carga viral em 94% - BBC News Brasil",
+            "description": "Pesquisadores não vão revelar o nome do medicamento até que os testes clínicos em pacientes com covid-19 comprovem a eficácia, mas disseram que medicamento tem baixo custo, ampla distribuição em farmácias brasileiras e não tem efeitos colaterais graves.",
+            "url": "https://www.bbc.com/portuguese/brasil-52299974",
+            "urlToImage": "https://ichef.bbci.co.uk/news/1024/branded_portuguese/AEC4/production/_111704744_gettyimages-1208286352.jpg",
+            "publishedAt": "2020-04-15T15:26:09Z",
+            "content": "Direito de imagemGetty ImagesImage caption\r\n Experimentos feitos em laboratório são o primeiro passo de um longo caminho\r\nPesquisadores do Centro Nacional de Pesquisa em Energia e Materiais (CNPEM) descobriram em testes laboratoriais que um medicamento reduz … [+3417 chars]"
+        },
+        {
+            "source": {
+                "id": "globo",
+                "name": "Globo"
+            },
+            "author": null,
+            "title": "'Lamentamos a decisão dos EUA', diz diretor-geral da OMS sobre corte de financiamento americano à entidade - G1",
+            "description": "Tedros Adhanom Ghebreyesus disse que ainda não tem uma avaliação do impacto da decisão dos EUA no orçamento da OMS.",
+            "url": "https://g1.globo.com/bemestar/coronavirus/noticia/2020/04/15/lamentamos-a-decisao-dos-eua-diz-diretor-geral-da-oms-sobre-corte-de-financiamento-americano-a-entidade.ghtml",
+            "urlToImage": "https://s2.glbimg.com/c73mvOpJvtibuviAwRt45jf40j4=/1200x/smart/filters:cover():strip_icc()/s04.video.glbimg.com/x720/8483847.jpg",
+            "publishedAt": "2020-04-15T15:20:00Z",
+            "content": "O diretor-geral da Organização Mundial de Saúde (OMS) declarou nesta quarta (15) que lamenta a decisão dos Estados Unidos de cortar financiamento à entidade. \"Lamentamos a decisão do presidente dos Estados Unidos de ordenar uma suspensão no financiamento à OM… [+1223 chars]"
+        },
+        {
+            "source": {
+                "id": "globo",
+                "name": "Globo"
+            },
+            "author": null,
+            "title": "Secretário Wanderson de Oliveira, do Ministério da Saúde, pede demissão - G1",
+            "description": "Informação foi divulgada em nota oficial do ministério. Oliveira, assim como o ministro da Saúde, Luiz Henrique Mandetta, é favorável ao isolamento social para conter o coronavírus.",
+            "url": "https://g1.globo.com/bemestar/coronavirus/noticia/2020/04/15/secretario-de-vigilancia-em-saude-do-ministerio-da-saude-wanderson-de-oliveira-pede-demissao.ghtml",
+            "urlToImage": "https://s2.glbimg.com/PXr3Pt1BxwpmHjfzu1JiandxZ7I=/1200x/smart/filters:cover():strip_icc()/s03.video.glbimg.com/x720/8483734.jpg",
+            "publishedAt": "2020-04-15T15:11:00Z",
+            "content": "O secretário de Vigilância em Saúde do Ministério da Saúde, Wanderson de Oliveira, pediu demissão na manhã desta quarta-feira (15). A informação foi divulgada em nota oficial do ministério. A saída de Wanderson ocorre em meio à pandemia de coronavírus. Ele vi… [+1960 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Em.com.br"
+            },
+            "author": "Ansa",
+            "title": "Casos de coronavírus no mundo passam de 2 milhões e especialistas fazem previsão pessimista - Estado de Minas",
+            "description": "Foram necessários três meses para mundo chegar a 1 milhão de casos, mas apenas 13 dias para dobrar o número, o que indica que a pandemia está longe do pico",
+            "url": "https://www.em.com.br/app/noticia/internacional/2020/04/15/interna_internacional,1138771/casos-de-coronavirus-no-mundo-passam-de-2-milhoes-e-pico-esta-distante.shtml",
+            "urlToImage": "https://i.em.com.br/s2VNamvrjMjZAYNI-LomkfdMsH4=/600x315/smart/imgsapp.em.com.br/app/noticia_127983242361/2020/04/15/1138771/20200415120300104947a.jpg",
+            "publishedAt": "2020-04-15T14:55:00Z",
+            "content": "Aproveite o melhor do Estado de Minas: contedos exclusivos, colunistas renomados e muitos benefcios para voc.\r\nASSINE AGORAUtilizamos tecnologia e segurana do Google para fazer a assinatura."
+        },
+        {
+            "source": {
+                "id": "globo",
+                "name": "Globo"
+            },
+            "author": "Daniel Gullino",
+            "title": "Governo diz ter encontrado remédio com eficácia de 94% contra coronavírus em testes de laboratório - Jornal O Globo",
+            "description": "Pesquisa para analisar eficácia de dois tipos de droga em humanos deve ser iniciada nas próximas semanas, segundo o Ministério da Ciência e Tecnologia, que não divulgou nome dos medicamentos",
+            "url": "https://oglobo.globo.com/sociedade/governo-diz-ter-encontrado-remedio-com-eficacia-de-94-contra-coronavirus-em-testes-de-laboratorio-24372714",
+            "urlToImage": "https://ogimg.infoglobo.com.br/in/24372710-fe3-232/FT1086A/652/49774660218_9b3a3b3129_o.jpg",
+            "publishedAt": "2020-04-15T14:37:00Z",
+            "content": "BRASÍLIA O Ministério da Ciência e Tecnologia disse ter encontrado dois remédios que reduzem a replicação do novo coronavírusem células humanas, sem causar efeitos colaterais. Um desses remédios teve eficácia de 94%. Os testes foram feitos em laboratório e se… [+2737 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Diariodepernambuco.com.br"
+            },
+            "author": "Diario de Pernambuco, Diario de Pernambuco",
+            "title": "Bebida alcóolica deve ser restringida na quarentena por coronavírus, diz OMS - Diário de Pernambuco",
+            "description": "Governos deveriam limitar a venda de bebidas alcoólicas durante a quarentena, recomendou a OMS (Organização Mundial de Saúde). Segu",
+            "url": "https://www.diariodepernambuco.com.br/noticia/mundo/2020/04/bebida-alcoolica-deve-ser-restringida-na-quarentena-por-coronavirus-d.html",
+            "urlToImage": "https://www.diariodepernambuco.com.br/static/app/noticia_127983242361/2020/04/15/825620/20200415113528217226u.jpg",
+            "publishedAt": "2020-04-15T14:19:00Z",
+            "content": "Diario de Pernambuco é o jornal mais antigo em circulação na América Latina, com sede em Recife, Pernambuco, Brasil\r\n© Todos os direitos reservados.Diario de Pernambuco S. A."
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Ofuxico.com.br"
+            },
+            "author": "OFuxico",
+            "title": "BBB20: Prior comemora saída de Gizelly e web detona - OFuxico",
+            "description": "Brother não agradou muito alguns internautas",
+            "url": "https://www.ofuxico.com.br/bbb/noticias/bbb20-prior-comemora-saida-de-gizelly-e-web-detona/2020/04/15-375774.html",
+            "urlToImage": "https://cdn-ofuxico.akamaized.net/img/upload/noticias/2020/04/15/fas-de-gizelly-detonam-prior-no-twitter_375774_36.jpg",
+            "publishedAt": "2020-04-15T14:07:04Z",
+            "content": "O Big Brother Brasil 20 acabou para alguns ex-participantes, mas eles não conseguem desapegar do reality show. Vários dos eliminados continuam comentando tudo o que rola na casa mais vigiada. \r\nMarcela chora com eliminação de Gizelly, do BBB20: ‘Não deu’\r\nUm … [+2232 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "R7.com"
+            },
+            "author": "R7.com",
+            "title": "Saúde vacina 90,66% dos idosos, segunda etapa começa nesta quinta - R7",
+            "description": "Para esta fase, o governo antecipou a vacinação dos povos indígenas, assim como motoristas e cobradores de transporte coletivo",
+            "url": "https://noticias.r7.com/saude/saude-vacina-9066-dos-idosos-segunda-etapa-comeca-nesta-quinta-15042020",
+            "urlToImage": "https://img.r7.com/images/vacina-gripe-31032020122616777?dimensions=600x315&crop_position=c",
+            "publishedAt": "2020-04-15T13:41:56Z",
+            "content": "O Ministério da Saúde informou que até segunda-feira (13), 18,9 milhões de idosos (90,66%) tinham sido vacinados contra a gripe no país, ultrapassando a meta de 90% de cobertura para esse público. Nessa primeira fase da campanha também foram vacinados 3,8 mil… [+2688 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Superesportes.com.br"
+            },
+            "author": "Superesportes, Superesportes",
+            "title": "Cruzeiro detalha situação financeira a candidatos à presidência: aumento de dívida na Fifa, déficit de R$ 143 milhões em 2020 e corte de gastos - Superesportes",
+            "description": "Dívidas na Fifa ultrapassam R$ 80 milhões; maior parte deve ser paga no ano",
+            "url": "https://www.mg.superesportes.com.br/app/noticias/futebol/cruzeiro/2020/04/15/noticia_cruzeiro,3844483/cruzeiro-detalha-situacao-financeira-a-candidatos-a-presidencia.shtml",
+            "urlToImage": "https://i.superesportes.com.br/dIj7rpCKsEc730lYe4eNEQ0U_q4=/smart/imgsapp.mg.superesportes.com.br/app/noticia_126420360808/2020/04/15/3844483/20200415104939726367e.jpg",
+            "publishedAt": "2020-04-15T13:35:00Z",
+            "content": "O Conselho Gestor se reuniu em videoconferência com candidatos à presidência do Cruzeiro e do Conselho Deliberativo para detalhar os dados da situação financeira do clube. A Raposa projeta encerrar a temporada 2020 com déficit de R$ 143 milhões. O clube passa… [+2634 chars]"
+        },
+        {
+            "source": {
+                "id": "globo",
+                "name": "Globo"
+            },
+            "author": "Maria Fortuna",
+            "title": "Lázaro Ramos faz lives com especialistas e fala sobre sua quarentena: 'É um desafio ficar 24 horas com esposa e filhos' - Jornal O Globo",
+            "description": "De lives com especialistas a apoio a pequenos empreendedores, ator usa redes sociais para disseminar informação e ajuda durante a pandemia",
+            "url": "https://oglobo.globo.com/cultura/lazaro-ramos-faz-lives-com-especialistas-fala-sobre-sua-quarentena-um-desafio-ficar-24-horas-com-esposa-filhos-24372228",
+            "urlToImage": "https://ogimg.infoglobo.com.br/cultura/24372260-a75-d92/FT1086A/652/lazarocapa.jpg",
+            "publishedAt": "2020-04-15T13:18:00Z",
+            "content": "RIO - Se existem coincidências, elas têm sido muitas ultimamente na vida profissional de Lázaro Ramos. Para citar apenas a mais impressionante, ficamos com o fato de que todos os seus projetos antes do coronavírus falavam de confinamento. Sob sua direção, a p… [+6103 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Metropolitanafm.com.br"
+            },
+            "author": "https://www.facebook.com/metropolitanafm",
+            "title": "Gracyanne Barbosa revela segredo impressionante de corpo sarado dando zoom nas partes íntimas - Metropolitana FM",
+            "description": "A musa botou o corpão pra jogo",
+            "url": "https://metropolitanafm.com.br/novidades/famosos/gracyanne-barbosa-exibe-corpo-sarado-em-video-segredo-revelado",
+            "urlToImage": "https://metropolitanafm.com.br/wp-content/uploads/2020/04/Gracyanne-Barbosa-2.jpg",
+            "publishedAt": "2020-04-15T13:12:45Z",
+            "content": "As celebridades não param de postar vídeo no TikTok, principalmente em época de quarentena para criar mais conteúdo para os seguidores, assim como fez Gracyanne Barbosa na noite desta terça-feira (14).\r\nA musa fez um vídeo hilário na rede social onde mostra o… [+815 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Terra.com.br"
+            },
+            "author": null,
+            "title": "Primeiro título mundial do São Paulo vai passar na TV: onde assistir e horário - Terra",
+            "description": "Decisão com o Barcelona, disputado em 1992, e com Raí em campo, será mais uma partida histórica que o torcedor poderá ver na televisão",
+            "url": "https://www.terra.com.br/esportes/sao-paulo/primeiro-titulo-mundial-do-sao-paulo-vai-passar-na-tv-onde-assistir-e-horario,eacef5bdda15ca5c10a31ea0f7eb11018g8iqa8r.html",
+            "urlToImage": "http://p2.trrsf.com/image/fget/cf/800/450/middle/s1.trrsf.com/atm/3/core/_img/terra-logo-white-bg-v3.jpg",
+            "publishedAt": "2020-04-15T13:04:13Z",
+            "content": "Seguindo a onda dos jogos antigos e históricos do futebol brasileiro, uma das atrações da TV Bandeirantes no próximo domingo, a partir das 14h, é a transmissão da decisão entre São Paulo x Barcelona, no Mundial de Clubee da Fifa de 1992. Foi o primeiro título… [+1412 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Uol.com.br"
+            },
+            "author": null,
+            "title": "Coronavírus: Sem Mandetta, cresce temor de manipulação do número de vítimas - UOL",
+            "description": "A substituição do ministro da Saúde, Luiz Henrique Mandetta, por um nome mais palatável para as preocupações eleitorais de",
+            "url": "https://noticias.uol.com.br/colunas/leonardo-sakamoto/2020/04/15/coronavirus-risco-de-manipulacao-do-numero-de-vitimas-cresce-sem-mandetta.htm",
+            "urlToImage": "https://conteudo.imguol.com.br/c/noticias/11/2020/03/23/o-presidente-jair-bolsonaro-1585016707722_v2_615x300.jpg",
+            "publishedAt": "2020-04-15T12:52:00Z",
+            "content": "A substituição do ministro da Saúde, Luiz Henrique Mandetta, por um nome mais palatável para as preocupações eleitorais de Jair Bolsonaro traz, além da preocupação sobre o afrouxamento no combate ao coronavírus, uma questão crucial de transparência: a contage… [+6525 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Canalrural.com.br"
+            },
+            "author": null,
+            "title": "Petrobras reduz preço do diesel em 6%; medida passa a valer nesta quarta - Canal Rural",
+            "description": "A companhia também anunciou redução no preço da gasolina, que ficará 8% mais barata. No acumulado do ano, o preço da gasolina já caiu 48,2% e o do diesel caiu 35,4%",
+            "url": "https://www.canalrural.com.br/agronegocio/petrobras-reduz-preco-do-diesel-em-6-medida-passa-a-valer-nesta-quarta/",
+            "urlToImage": "https://static-wp-canalr-prd.canalrural.com.br/2019/06/diesel-1122312_1920.jpg",
+            "publishedAt": "2020-04-15T11:32:00Z",
+            "content": "Foto: Pixabay\r\nA Petrobras anunciou, nesta terça-feira, 14, uma nova redução nos preços médios dos combustíveis vendidos nas refinarias. A gasolina ficará 8% mais barata e o diesel terá queda de 6%. No acumulado do ano, o preço da gasolina já caiu 48,2% e o d… [+1403 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Colunadofla.com"
+            },
+            "author": null,
+            "title": "Mais flexível, Jorge Jesus pretende acertar renovação de contrato com o Flamengo ao retornar das férias - Coluna do Fla",
+            "description": "FOTO: PAULA REIS / FLAMENGO O Flamengo suspendeu todas as atividades tanto na sede da Gávea quanto no Centro de Treinamento do Ninho do Urubu, por conta da pandemia do novo coronavírus. Porém, um dos assuntos mais comentados entre os torcedores rubro-negros é…",
+            "url": "https://colunadofla.com/2020/04/mais-flexivel-jorge-jesus-pretende-acertar-renovacao-de-contrato-com-o-flamengo-ao-retornar-das-ferias/",
+            "urlToImage": "https://colunadofla.com/wp-content/uploads/2020/03/jorge-jesus-1.jpg",
+            "publishedAt": "2020-04-15T11:22:22Z",
+            "content": "FOTO: PAULA REIS / FLAMENGO\r\nO Flamengo suspendeu todas as atividades tanto na sede da Gávea quanto no Centro de Treinamento do Ninho do Urubu, por conta da pandemia do novo coronavírus. Porém, um dos assuntos mais comentados entre os torcedores rubro-negros … [+1536 chars]"
+        }
+    ]
+}

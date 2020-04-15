@@ -1,6 +1,8 @@
+import org.apache.kafka.clients.consumer.ConsumerConfig;
 import org.apache.kafka.clients.consumer.ConsumerRecord;
 import org.apache.kafka.clients.consumer.ConsumerRecords;
 import org.apache.kafka.clients.consumer.KafkaConsumer;
+import org.apache.kafka.common.serialization.StringDeserializer;
 
 import java.time.Duration;
 import java.util.ArrayList;
@@ -12,14 +14,14 @@ public class Consumer {
     public static void main(String[] args) {
 
 	Properties properties = new Properties();
-	properties.put("bootstrap.servers", KafkaConfig.BROKER);
-        properties.put("group.id", KafkaConfig.GROUP_ID);
-	properties.put("key.deserializer", "org.apache.kafka.common.serialization.StringDeserializer");
-	properties.put("value.deserializer", "org.apache.kafka.common.serialization.StringDeserializer");
+	properties.put("bootstrap.servers", NewsConfig.BROKER);
+        properties.put("group.id", NewsConfig.GROUP_ID);
+        properties.put(ConsumerConfig.KEY_DESERIALIZER_CLASS_CONFIG, StringDeserializer.class.getName());
+        properties.put(ConsumerConfig.VALUE_DESERIALIZER_CLASS_CONFIG, StringDeserializer.class.getName());
 
 	KafkaConsumer<String, String> kafkaConsumer = new KafkaConsumer<String, String>(properties);
 	List<String> topics = new ArrayList<String>();
-	topics.add(KafkaConfig.TOPIC);
+	topics.add(NewsConfig.TOPIC);
 	kafkaConsumer.subscribe(topics);
 	try{
 	    while (true){

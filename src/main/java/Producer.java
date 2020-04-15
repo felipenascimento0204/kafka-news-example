@@ -18,7 +18,7 @@ public class Producer {
         properties.put(ProducerConfig.KEY_SERIALIZER_CLASS_CONFIG, StringSerializer.class.getName());
         properties.put(ProducerConfig.VALUE_SERIALIZER_CLASS_CONFIG, StringSerializer.class.getName());
 
-        KafkaProducer kafkaProducer = new KafkaProducer(properties);
+        KafkaProducer<String, String> kafkaProducer = new KafkaProducer<String, String>(properties);
 
         NewsService newsService = new NewsService();
         News news = newsService.getNews();
@@ -28,7 +28,7 @@ public class Producer {
             int key = 1;
             for(Article article : news.getArticles()){
                 Thread.sleep(2000);
-                kafkaProducer.send(new ProducerRecord(NewsConfig.TOPIC, Integer.toString(key), gson.toJson(article)));
+                kafkaProducer.send(new ProducerRecord<String, String>(NewsConfig.TOPIC, Integer.toString(key), gson.toJson(article)));
                 System.out.println("Send article: " + key);
                 key++;
             }
